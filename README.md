@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Scripter36's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scripter36&show_icons=true&theme=nord)
+
+### 개발에 참여한 프로젝트
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KiwiTalk&repo=KiwiTalk&theme=nord)](https://github.com/KiwiTalk/KiwiTalk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vokkit&repo=Vokkit-old&theme=nord)](https://github.com/Vokkit/Vokkit-old)
