@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Scripter36's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scripter36&show_icons=true&count_private=true&theme=nord)
+![Scripter36's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scripter36&show_icons=true&count_private=true&include_all_commits=true&theme=nord)
 
 ### 개발에 참여한 프로젝트
 
